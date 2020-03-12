@@ -5,5 +5,5 @@
   "deploymentType": "static",
   "buildCommand": "yarn build",
   "buildDirectory": "build",
-  "datocmsApiTokenEnvName": "DATOCMS_API_TOKEN"
+  "datocmsApiTokenEnvName": "DATO_API_TOKEN"
 }
