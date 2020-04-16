@@ -1,6 +1,9 @@
 theme: creative-inc
 permalink: works/:title/
 
+theme_config:
+  bio: "Creative Inc."
+
 index_generator:
   per_page: 5
   order_by: position
